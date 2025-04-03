@@ -17,6 +17,7 @@ Identifying blood vessels in MRI scans is critical for diagnosing neurovascular 
 ## Methodology
 ### **Data Processing**
 - **Dataset**: 600 MRI scans in `.nii` format, converted into 64-voxel cube sub-volumes for efficiency.
+- **Link To Data**: [https://www.kaggle.com/datasets/jananowakova/retinal-image-dataset-of-infants-and-rop](https://www.kaggle.com/datasets/jananowakova/retinal-image-dataset-of-infants-and-rop)
 - **Features Extracted**: Vessel density, radius, tortuosity, and branching patterns.
 - **Data Split**: 80% training, 20% validation; training data further divided (80% training, 20% testing).
 
